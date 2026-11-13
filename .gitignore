@@ -1,1 +1,14 @@
-python
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environmets
+.venv/
+venv/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+
