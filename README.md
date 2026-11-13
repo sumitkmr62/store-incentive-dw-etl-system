@@ -1,4 +1,4 @@
-# Store Incetive Data Warehouse and ETL System
+# Store Incentive Data Warehouse and ETL System
 
 ## Project Overview
 
