@@ -1,1 +1,13 @@
-# store-incentive-dw-etl-system
+# Store Incetive Datawarehouse and ETL System
+
+## Project Overview
+
+## Project Objectives
+
+## Technology Stack
+
+## Data Architecture
+
+## Medallion Architecture
+
+## Project Status
