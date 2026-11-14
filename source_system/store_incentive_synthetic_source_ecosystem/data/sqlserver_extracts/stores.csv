@@ -1,0 +1,21 @@
+﻿store_id,store_code,store_name,city,state,region,opening_date,store_status
+1,STR-001,Delhi Vision Store 01,Delhi,Delhi,North-1,2020-02-07,ACTIVE
+2,STR-002,Gurugram Vision Store 02,Gurugram,Haryana,North-1,2020-03-15,ACTIVE
+3,STR-003,Noida Vision Store 03,Noida,Uttar Pradesh,North-1,2020-04-21,ACTIVE
+4,STR-004,Jaipur Vision Store 04,Jaipur,Rajasthan,North-1,2020-05-28,ACTIVE
+5,STR-005,Lucknow Vision Store 05,Lucknow,Uttar Pradesh,North-1,2020-07-04,ACTIVE
+6,STR-006,Delhi Vision Store 06,Delhi,Delhi,North-2,2020-08-10,ACTIVE
+7,STR-007,Gurugram Vision Store 07,Gurugram,Haryana,North-2,2020-09-16,ACTIVE
+8,STR-008,Noida Vision Store 08,Noida,Uttar Pradesh,North-2,2020-10-23,ACTIVE
+9,STR-009,Jaipur Vision Store 09,Jaipur,Rajasthan,North-2,2020-11-29,ACTIVE
+10,STR-010,Lucknow Vision Store 10,Lucknow,Uttar Pradesh,North-2,2021-01-05,ACTIVE
+11,STR-011,Delhi Vision Store 11,Delhi,Delhi,North-3,2021-02-11,ACTIVE
+12,STR-012,Gurugram Vision Store 12,Gurugram,Haryana,North-3,2021-03-20,ACTIVE
+13,STR-013,Noida Vision Store 13,Noida,Uttar Pradesh,North-3,2021-04-26,ACTIVE
+14,STR-014,Jaipur Vision Store 14,Jaipur,Rajasthan,North-3,2021-06-02,ACTIVE
+15,STR-015,Lucknow Vision Store 15,Lucknow,Uttar Pradesh,North-3,2021-07-09,ACTIVE
+16,STR-016,Delhi Vision Store 16,Delhi,Delhi,West-1,2021-08-15,ACTIVE
+17,STR-017,Gurugram Vision Store 17,Gurugram,Haryana,West-1,2021-09-21,ACTIVE
+18,STR-018,Noida Vision Store 18,Noida,Uttar Pradesh,West-1,2021-10-28,ACTIVE
+19,STR-019,Jaipur Vision Store 19,Jaipur,Rajasthan,West-1,2021-12-04,ACTIVE
+20,STR-020,Lucknow Vision Store 20,Lucknow,Uttar Pradesh,West-1,2022-01-10,ACTIVE

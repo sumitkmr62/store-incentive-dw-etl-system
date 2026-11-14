@@ -1,0 +1,1506 @@
+{
+  "source": "web_and_app_analytics",
+  "schema_version": "1.0",
+  "events": [
+    {
+      "event_id": "CE-00000001",
+      "event_timestamp": "2026-07-04 11:30:00",
+      "customer_id": 22,
+      "session_id": "SES-0006086",
+      "event_type": "STORE_LOCATOR",
+      "store_id": null,
+      "product_id": null,
+      "device_type": "IOS",
+      "event_properties": {
+        "source": "synthetic",
+        "campaign": "search",
+        "duration_seconds": 82
+      }
+    },
+    {
+      "event_id": "CE-00000002",
+      "event_timestamp": "2025-04-20 12:10:00",
+      "customer_id": 441,
+      "session_id": "SES-0012164",
+      "event_type": "PRODUCT_SEARCH",
+      "store_id": null,
+      "product_id": null,
+      "device_type": "ANDROID",
+      "event_properties": {
+        "source": "synthetic",
+        "campaign": "organic",
+        "duration_seconds": 297
+      }
+    },
+    {
+      "event_id": "CE-00000003",
+      "event_timestamp": "2026-03-01 15:15:00",
+      "customer_id": 124,
+      "session_id": "SES-0019808",
+      "event_type": "CART_ABANDONED",
+      "store_id": null,
+      "product_id": null,
+      "device_type": "WEB",
+      "event_properties": {
+        "source": "synthetic",
+        "campaign": "search",
+        "duration_seconds": 683
+      }
+    },
+    {
+      "event_id": "CE-00000004",
+      "event_timestamp": "2025-10-22 11:30:00",
+      "customer_id": 338,
+      "session_id": "SES-0017810",
+      "event_type": "PRODUCT_VIEW",
+      "store_id": null,
+      "product_id": 32,
+      "device_type": "WEB",
+      "event_properties": {
+        "source": "synthetic",
+        "campaign": "walk_in",
+        "duration_seconds": 241
+      }
+    },
+    {
+      "event_id": "CE-00000005",
+      "event_timestamp": "2025-11-26 11:10:00",
+      "customer_id": 219,
+      "session_id": "SES-0007945",
+      "event_type": "CART_ABANDONED",
+      "store_id": null,
+      "product_id": null,
+      "device_type": "IOS",
+      "event_properties": {
+        "source": "synthetic",
+        "campaign": "social",
+        "duration_seconds": 634
+      }
+    },
+    {
+      "event_id": "CE-00000006",
+      "event_timestamp": "2026-08-09 16:30:00",
+      "customer_id": 865,
+      "session_id": "SES-0002381",
+      "event_type": "PRODUCT_SEARCH",
+      "store_id": null,
+      "product_id": null,
+      "device_type": "IOS",
+      "event_properties": {
+        "source": "synthetic",
+        "campaign": "walk_in",
+        "duration_seconds": 686
+      }
+    },
+    {
+      "event_id": "CE-00000007",
+      "event_timestamp": "2026-08-15 12:15:00",
+      "customer_id": 380,
+      "session_id": "SES-0014197",
+      "event_type": "PURCHASE",
+      "store_id": 14,
+      "product_id": 10,
+      "device_type": "WEB",
+      "event_properties": {
+        "source": "synthetic",
+        "campaign": "organic",
+        "duration_seconds": 103
+      }
+    },
+    {
+      "event_id": "CE-00000008",
+      "event_timestamp": "2025-10-04 18:15:00",
+      "customer_id": 116,
+      "session_id": "SES-0014387",
+      "event_type": "PRODUCT_SEARCH",
+      "store_id": null,
+      "product_id": null,
+      "device_type": "IOS",
+      "event_properties": {
+        "source": "synthetic",
+        "campaign": "social",
+        "duration_seconds": 491
+      }
+    },
+    {
+      "event_id": "CE-00000009",
+      "event_timestamp": "2025-08-12 11:10:00",
+      "customer_id": 314,
+      "session_id": "SES-0009964",
+      "event_type": "CART_ADD",
+      "store_id": null,
+      "product_id": 74,
+      "device_type": "WEB",
+      "event_properties": {
+        "source": "synthetic",
+        "campaign": "search",
+        "duration_seconds": 380
+      }
+    },
+    {
+      "event_id": "CE-00000010",
+      "event_timestamp": "2026-10-07 17:45:00",
+      "customer_id": 265,
+      "session_id": "SES-0006240",
+      "event_type": "PRODUCT_SEARCH",
+      "store_id": null,
+      "product_id": null,
+      "device_type": "IOS",
+      "event_properties": {
+        "source": "synthetic",
+        "campaign": "search",
+        "duration_seconds": 542
+      }
+    },
+    {
+      "event_id": "CE-00000011",
+      "event_timestamp": "2026-01-26 13:10:00",
+      "customer_id": 605,
+      "session_id": "SES-0014566",
+      "event_type": "CART_ADD",
+      "store_id": null,
+      "product_id": 37,
+      "device_type": "IOS",
+      "event_properties": {
+        "source": "synthetic",
+        "campaign": "search",
+        "duration_seconds": 851
+      }
+    },
+    {
+      "event_id": "CE-00000012",
+      "event_timestamp": "2026-09-01 14:10:00",
+      "customer_id": 402,
+      "session_id": "SES-0015033",
+      "event_type": "PURCHASE",
+      "store_id": 16,
+      "product_id": 125,
+      "device_type": "WEB",
+      "event_properties": {
+        "source": "synthetic",
+        "campaign": "social",
+        "duration_seconds": 205
+      }
+    },
+    {
+      "event_id": "CE-00000013",
+      "event_timestamp": "2025-08-06 15:10:00",
+      "customer_id": 173,
+      "session_id": "SES-0009973",
+      "event_type": "STORE_VISIT",
+      "store_id": 16,
+      "product_id": null,
+      "device_type": "WEB",
+      "event_properties": {
+        "source": "synthetic",
+        "campaign": "search",
+        "duration_seconds": 792
+      }
+    },
+    {
+      "event_id": "CE-00000014",
+      "event_timestamp": "2025-12-28 18:20:00",
+      "customer_id": 168,
+      "session_id": "SES-0011321",
+      "event_type": "CART_ADD",
+      "store_id": null,
+      "product_id": 24,
+      "device_type": "IOS",
+      "event_properties": {
+        "source": "synthetic",
+        "campaign": "search",
+        "duration_seconds": 548
+      }
+    },
+    {
+      "event_id": "CE-00000015",
+      "event_timestamp": "2025-05-02 10:20:00",
+      "customer_id": 189,
+      "session_id": "SES-0009226",
+      "event_type": "PURCHASE",
+      "store_id": 5,
+      "product_id": 37,
+      "device_type": "ANDROID",
+      "event_properties": {
+        "source": "synthetic",
+        "campaign": "organic",
+        "duration_seconds": 594
+      }
+    },
+    {
+      "event_id": "CE-00000016",
+      "event_timestamp": "2025-02-22 14:15:00",
+      "customer_id": 318,
+      "session_id": "SES-0014922",
+      "event_type": "CART_ADD",
+      "store_id": null,
+      "product_id": 162,
+      "device_type": "WEB",
+      "event_properties": {
+        "source": "synthetic",
+        "campaign": "social",
+        "duration_seconds": 211
+      }
+    },
+    {
+      "event_id": "CE-00000017",
+      "event_timestamp": "2026-06-15 12:20:00",
+      "customer_id": 773,
+      "session_id": "SES-0015927",
+      "event_type": "CART_ABANDONED",
+      "store_id": null,
+      "product_id": null,
+      "device_type": "IOS",
+      "event_properties": {
+        "source": "synthetic",
+        "campaign": "walk_in",
+        "duration_seconds": 275
+      }
+    },
+    {
+      "event_id": "CE-00000018",
+      "event_timestamp": "2026-07-08 09:15:00",
+      "customer_id": 779,
+      "session_id": "SES-0011122",
+      "event_type": "PURCHASE",
+      "store_id": 5,
+      "product_id": 181,
+      "device_type": "WEB",
+      "event_properties": {
+        "source": "synthetic",
+        "campaign": "social",
+        "duration_seconds": 793
+      }
+    },
+    {
+      "event_id": "CE-00000019",
+      "event_timestamp": "2026-02-04 14:20:00",
+      "customer_id": 847,
+      "session_id": "SES-0016770",
+      "event_type": "CART_ADD",
+      "store_id": null,
+      "product_id": 194,
+      "device_type": "WEB",
+      "event_properties": {
+        "source": "synthetic",
+        "campaign": "social",
+        "duration_seconds": 697
+      }
+    },
+    {
+      "event_id": "CE-00000020",
+      "event_timestamp": "2025-01-26 12:30:00",
+      "customer_id": 493,
+      "session_id": "SES-0012182",
+      "event_type": "APPOINTMENT_BOOKED",
+      "store_id": 16,
+      "product_id": null,
+      "device_type": "ANDROID",
+      "event_properties": {
+        "source": "synthetic",
+        "campaign": "social",
+        "duration_seconds": 391
+      }
+    },
+    {
+      "event_id": "CE-00000021",
+      "event_timestamp": "2025-11-21 10:00:00",
+      "customer_id": 441,
+      "session_id": "SES-0015548",
+      "event_type": "STORE_LOCATOR",
+      "store_id": null,
+      "product_id": null,
+      "device_type": "WEB",
+      "event_properties": {
+        "source": "synthetic",
+        "campaign": "social",
+        "duration_seconds": 606
+      }
+    },
+    {
+      "event_id": "CE-00000022",
+      "event_timestamp": "2026-08-03 18:45:00",
+      "customer_id": 900,
+      "session_id": "SES-0004348",
+      "event_type": "STORE_VISIT",
+      "store_id": 15,
+      "product_id": null,
+      "device_type": "WEB",
+      "event_properties": {
+        "source": "synthetic",
+        "campaign": "walk_in",
+        "duration_seconds": 282
+      }
+    },
+    {
+      "event_id": "CE-00000023",
+      "event_timestamp": "2025-11-29 19:15:00",
+      "customer_id": 807,
+      "session_id": "SES-0013385",
+      "event_type": "PURCHASE",
+      "store_id": 3,
+      "product_id": 181,
+      "device_type": "ANDROID",
+      "event_properties": {
+        "source": "synthetic",
+        "campaign": "organic",
+        "duration_seconds": 560
+      }
+    },
+    {
+      "event_id": "CE-00000024",
+      "event_timestamp": "2025-12-02 18:20:00",
+      "customer_id": 900,
+      "session_id": "SES-0006449",
+      "event_type": "CART_ABANDONED",
+      "store_id": null,
+      "product_id": null,
+      "device_type": "IOS",
+      "event_properties": {
+        "source": "synthetic",
+        "campaign": "walk_in",
+        "duration_seconds": 14
+      }
+    },
+    {
+      "event_id": "CE-00000025",
+      "event_timestamp": "2026-08-01 19:00:00",
+      "customer_id": 137,
+      "session_id": "SES-0003884",
+      "event_type": "PURCHASE",
+      "store_id": 5,
+      "product_id": 55,
+      "device_type": "ANDROID",
+      "event_properties": {
+        "source": "synthetic",
+        "campaign": "walk_in",
+        "duration_seconds": 848
+      }
+    },
+    {
+      "event_id": "CE-00000026",
+      "event_timestamp": "2026-09-29 13:20:00",
+      "customer_id": 174,
+      "session_id": "SES-0008479",
+      "event_type": "PRODUCT_VIEW",
+      "store_id": null,
+      "product_id": 105,
+      "device_type": "IOS",
+      "event_properties": {
+        "source": "synthetic",
+        "campaign": "search",
+        "duration_seconds": 426
+      }
+    },
+    {
+      "event_id": "CE-00000027",
+      "event_timestamp": "2026-01-11 20:45:00",
+      "customer_id": 685,
+      "session_id": "SES-0007859",
+      "event_type": "CART_ADD",
+      "store_id": null,
+      "product_id": 85,
+      "device_type": "WEB",
+      "event_properties": {
+        "source": "synthetic",
+        "campaign": "search",
+        "duration_seconds": 204
+      }
+    },
+    {
+      "event_id": "CE-00000028",
+      "event_timestamp": "2025-01-20 15:15:00",
+      "customer_id": 510,
+      "session_id": "SES-0003722",
+      "event_type": "CART_ABANDONED",
+      "store_id": null,
+      "product_id": null,
+      "device_type": "IOS",
+      "event_properties": {
+        "source": "synthetic",
+        "campaign": "search",
+        "duration_seconds": 662
+      }
+    },
+    {
+      "event_id": "CE-00000029",
+      "event_timestamp": "2026-04-09 17:15:00",
+      "customer_id": 382,
+      "session_id": "SES-0009180",
+      "event_type": "PRODUCT_VIEW",
+      "store_id": null,
+      "product_id": 46,
+      "device_type": "IOS",
+      "event_properties": {
+        "source": "synthetic",
+        "campaign": "organic",
+        "duration_seconds": 63
+      }
+    },
+    {
+      "event_id": "CE-00000030",
+      "event_timestamp": "2026-10-17 15:20:00",
+      "customer_id": 289,
+      "session_id": "SES-0013480",
+      "event_type": "STORE_VISIT",
+      "store_id": 18,
+      "product_id": null,
+      "device_type": "WEB",
+      "event_properties": {
+        "source": "synthetic",
+        "campaign": "walk_in",
+        "duration_seconds": 146
+      }
+    },
+    {
+      "event_id": "CE-00000031",
+      "event_timestamp": "2025-06-28 16:45:00",
+      "customer_id": 422,
+      "session_id": "SES-0017738",
+      "event_type": "STORE_LOCATOR",
+      "store_id": null,
+      "product_id": null,
+      "device_type": "ANDROID",
+      "event_properties": {
+        "source": "synthetic",
+        "campaign": "social",
+        "duration_seconds": 626
+      }
+    },
+    {
+      "event_id": "CE-00000032",
+      "event_timestamp": "2025-09-16 13:15:00",
+      "customer_id": 747,
+      "session_id": "SES-0018898",
+      "event_type": "STORE_VISIT",
+      "store_id": 11,
+      "product_id": null,
+      "device_type": "ANDROID",
+      "event_properties": {
+        "source": "synthetic",
+        "campaign": "organic",
+        "duration_seconds": 253
+      }
+    },
+    {
+      "event_id": "CE-00000033",
+      "event_timestamp": "2025-11-09 19:10:00",
+      "customer_id": 98,
+      "session_id": "SES-0000868",
+      "event_type": "STORE_LOCATOR",
+      "store_id": null,
+      "product_id": null,
+      "device_type": "ANDROID",
+      "event_properties": {
+        "source": "synthetic",
+        "campaign": "walk_in",
+        "duration_seconds": 386
+      }
+    },
+    {
+      "event_id": "CE-00000034",
+      "event_timestamp": "2025-12-24 16:10:00",
+      "customer_id": 457,
+      "session_id": "SES-0019960",
+      "event_type": "APPOINTMENT_BOOKED",
+      "store_id": 17,
+      "product_id": null,
+      "device_type": "WEB",
+      "event_properties": {
+        "source": "synthetic",
+        "campaign": "social",
+        "duration_seconds": 416
+      }
+    },
+    {
+      "event_id": "CE-00000035",
+      "event_timestamp": "2025-09-16 20:30:00",
+      "customer_id": 34,
+      "session_id": "SES-0018325",
+      "event_type": "PURCHASE",
+      "store_id": 1,
+      "product_id": 5,
+      "device_type": "WEB",
+      "event_properties": {
+        "source": "synthetic",
+        "campaign": "search",
+        "duration_seconds": 370
+      }
+    },
+    {
+      "event_id": "CE-00000036",
+      "event_timestamp": "2026-09-25 16:30:00",
+      "customer_id": 402,
+      "session_id": "SES-0008131",
+      "event_type": "PURCHASE",
+      "store_id": 20,
+      "product_id": 95,
+      "device_type": "IOS",
+      "event_properties": {
+        "source": "synthetic",
+        "campaign": "search",
+        "duration_seconds": 507
+      }
+    },
+    {
+      "event_id": "CE-00000037",
+      "event_timestamp": "2025-12-23 17:20:00",
+      "customer_id": 991,
+      "session_id": "SES-0002665",
+      "event_type": "APPOINTMENT_BOOKED",
+      "store_id": 2,
+      "product_id": null,
+      "device_type": "IOS",
+      "event_properties": {
+        "source": "synthetic",
+        "campaign": "social",
+        "duration_seconds": 415
+      }
+    },
+    {
+      "event_id": "CE-00000038",
+      "event_timestamp": "2025-05-07 19:15:00",
+      "customer_id": 797,
+      "session_id": "SES-0000246",
+      "event_type": "STORE_VISIT",
+      "store_id": 2,
+      "product_id": null,
+      "device_type": "IOS",
+      "event_properties": {
+        "source": "synthetic",
+        "campaign": "search",
+        "duration_seconds": 657
+      }
+    },
+    {
+      "event_id": "CE-00000039",
+      "event_timestamp": "2025-12-31 14:00:00",
+      "customer_id": 400,
+      "session_id": "SES-0014444",
+      "event_type": "PURCHASE",
+      "store_id": 16,
+      "product_id": 60,
+      "device_type": "ANDROID",
+      "event_properties": {
+        "source": "synthetic",
+        "campaign": "walk_in",
+        "duration_seconds": 531
+      }
+    },
+    {
+      "event_id": "CE-00000040",
+      "event_timestamp": "2025-10-16 14:45:00",
+      "customer_id": 975,
+      "session_id": "SES-0005081",
+      "event_type": "CART_ADD",
+      "store_id": null,
+      "product_id": 61,
+      "device_type": "ANDROID",
+      "event_properties": {
+        "source": "synthetic",
+        "campaign": "search",
+        "duration_seconds": 254
+      }
+    },
+    {
+      "event_id": "CE-00000041",
+      "event_timestamp": "2025-05-16 19:00:00",
+      "customer_id": 1,
+      "session_id": "SES-0009081",
+      "event_type": "CART_ADD",
+      "store_id": null,
+      "product_id": 81,
+      "device_type": "WEB",
+      "event_properties": {
+        "source": "synthetic",
+        "campaign": "social",
+        "duration_seconds": 724
+      }
+    },
+    {
+      "event_id": "CE-00000042",
+      "event_timestamp": "2025-08-03 18:45:00",
+      "customer_id": 181,
+      "session_id": "SES-0015104",
+      "event_type": "PURCHASE",
+      "store_id": 20,
+      "product_id": 111,
+      "device_type": "WEB",
+      "event_properties": {
+        "source": "synthetic",
+        "campaign": "walk_in",
+        "duration_seconds": 746
+      }
+    },
+    {
+      "event_id": "CE-00000043",
+      "event_timestamp": "2025-02-04 18:20:00",
+      "customer_id": 525,
+      "session_id": "SES-0014266",
+      "event_type": "PRODUCT_SEARCH",
+      "store_id": null,
+      "product_id": null,
+      "device_type": "WEB",
+      "event_properties": {
+        "source": "synthetic",
+        "campaign": "organic",
+        "duration_seconds": 765
+      }
+    },
+    {
+      "event_id": "CE-00000044",
+      "event_timestamp": "2025-06-04 16:15:00",
+      "customer_id": 227,
+      "session_id": "SES-0003204",
+      "event_type": "PURCHASE",
+      "store_id": 18,
+      "product_id": 48,
+      "device_type": "WEB",
+      "event_properties": {
+        "source": "synthetic",
+        "campaign": "search",
+        "duration_seconds": 654
+      }
+    },
+    {
+      "event_id": "CE-00000045",
+      "event_timestamp": "2026-07-26 15:20:00",
+      "customer_id": 49,
+      "session_id": "SES-0014276",
+      "event_type": "PURCHASE",
+      "store_id": 2,
+      "product_id": 189,
+      "device_type": "IOS",
+      "event_properties": {
+        "source": "synthetic",
+        "campaign": "organic",
+        "duration_seconds": 626
+      }
+    },
+    {
+      "event_id": "CE-00000046",
+      "event_timestamp": "2025-08-27 09:20:00",
+      "customer_id": 644,
+      "session_id": "SES-0000896",
+      "event_type": "APPOINTMENT_BOOKED",
+      "store_id": 20,
+      "product_id": null,
+      "device_type": "IOS",
+      "event_properties": {
+        "source": "synthetic",
+        "campaign": "organic",
+        "duration_seconds": 500
+      }
+    },
+    {
+      "event_id": "CE-00000047",
+      "event_timestamp": "2026-04-27 09:15:00",
+      "customer_id": 845,
+      "session_id": "SES-0014183",
+      "event_type": "STORE_VISIT",
+      "store_id": 12,
+      "product_id": null,
+      "device_type": "IOS",
+      "event_properties": {
+        "source": "synthetic",
+        "campaign": "search",
+        "duration_seconds": 881
+      }
+    },
+    {
+      "event_id": "CE-00000048",
+      "event_timestamp": "2025-11-11 12:30:00",
+      "customer_id": 611,
+      "session_id": "SES-0010363",
+      "event_type": "CART_ADD",
+      "store_id": null,
+      "product_id": 135,
+      "device_type": "WEB",
+      "event_properties": {
+        "source": "synthetic",
+        "campaign": "social",
+        "duration_seconds": 315
+      }
+    },
+    {
+      "event_id": "CE-00000049",
+      "event_timestamp": "2025-05-30 10:30:00",
+      "customer_id": 64,
+      "session_id": "SES-0016065",
+      "event_type": "APPOINTMENT_BOOKED",
+      "store_id": 1,
+      "product_id": null,
+      "device_type": "WEB",
+      "event_properties": {
+        "source": "synthetic",
+        "campaign": "organic",
+        "duration_seconds": 628
+      }
+    },
+    {
+      "event_id": "CE-00000050",
+      "event_timestamp": "2026-03-04 19:30:00",
+      "customer_id": 588,
+      "session_id": "SES-0016752",
+      "event_type": "STORE_VISIT",
+      "store_id": 1,
+      "product_id": null,
+      "device_type": "ANDROID",
+      "event_properties": {
+        "source": "synthetic",
+        "campaign": "search",
+        "duration_seconds": 788
+      }
+    },
+    {
+      "event_id": "CE-00000051",
+      "event_timestamp": "2026-06-17 12:10:00",
+      "customer_id": 54,
+      "session_id": "SES-0002615",
+      "event_type": "CART_ADD",
+      "store_id": null,
+      "product_id": 11,
+      "device_type": "WEB",
+      "event_properties": {
+        "source": "synthetic",
+        "campaign": "search",
+        "duration_seconds": 199
+      }
+    },
+    {
+      "event_id": "CE-00000052",
+      "event_timestamp": "2026-07-13 16:20:00",
+      "customer_id": 576,
+      "session_id": "SES-0019055",
+      "event_type": "CART_ABANDONED",
+      "store_id": null,
+      "product_id": null,
+      "device_type": "ANDROID",
+      "event_properties": {
+        "source": "synthetic",
+        "campaign": "social",
+        "duration_seconds": 421
+      }
+    },
+    {
+      "event_id": "CE-00000053",
+      "event_timestamp": "2025-03-26 17:30:00",
+      "customer_id": 963,
+      "session_id": "SES-0005151",
+      "event_type": "PRODUCT_SEARCH",
+      "store_id": null,
+      "product_id": null,
+      "device_type": "WEB",
+      "event_properties": {
+        "source": "synthetic",
+        "campaign": "social",
+        "duration_seconds": 568
+      }
+    },
+    {
+      "event_id": "CE-00000054",
+      "event_timestamp": "2026-03-24 13:30:00",
+      "customer_id": 151,
+      "session_id": "SES-0001527",
+      "event_type": "PRODUCT_SEARCH",
+      "store_id": null,
+      "product_id": null,
+      "device_type": "ANDROID",
+      "event_properties": {
+        "source": "synthetic",
+        "campaign": "social",
+        "duration_seconds": 73
+      }
+    },
+    {
+      "event_id": "CE-00000055",
+      "event_timestamp": "2025-08-24 12:20:00",
+      "customer_id": 795,
+      "session_id": "SES-0008391",
+      "event_type": "PRODUCT_SEARCH",
+      "store_id": null,
+      "product_id": null,
+      "device_type": "WEB",
+      "event_properties": {
+        "source": "synthetic",
+        "campaign": "search",
+        "duration_seconds": 456
+      }
+    },
+    {
+      "event_id": "CE-00000056",
+      "event_timestamp": "2025-10-07 12:15:00",
+      "customer_id": 495,
+      "session_id": "SES-0002379",
+      "event_type": "STORE_LOCATOR",
+      "store_id": null,
+      "product_id": null,
+      "device_type": "WEB",
+      "event_properties": {
+        "source": "synthetic",
+        "campaign": "walk_in",
+        "duration_seconds": 854
+      }
+    },
+    {
+      "event_id": "CE-00000057",
+      "event_timestamp": "2026-08-09 10:45:00",
+      "customer_id": 556,
+      "session_id": "SES-0001193",
+      "event_type": "STORE_VISIT",
+      "store_id": 15,
+      "product_id": null,
+      "device_type": "ANDROID",
+      "event_properties": {
+        "source": "synthetic",
+        "campaign": "social",
+        "duration_seconds": 107
+      }
+    },
+    {
+      "event_id": "CE-00000058",
+      "event_timestamp": "2025-11-02 16:20:00",
+      "customer_id": 532,
+      "session_id": "SES-0012954",
+      "event_type": "PURCHASE",
+      "store_id": 14,
+      "product_id": 38,
+      "device_type": "WEB",
+      "event_properties": {
+        "source": "synthetic",
+        "campaign": "search",
+        "duration_seconds": 34
+      }
+    },
+    {
+      "event_id": "CE-00000059",
+      "event_timestamp": "2026-05-26 17:00:00",
+      "customer_id": 478,
+      "session_id": "SES-0010672",
+      "event_type": "PRODUCT_VIEW",
+      "store_id": null,
+      "product_id": 131,
+      "device_type": "IOS",
+      "event_properties": {
+        "source": "synthetic",
+        "campaign": "search",
+        "duration_seconds": 290
+      }
+    },
+    {
+      "event_id": "CE-00000060",
+      "event_timestamp": "2025-08-08 20:30:00",
+      "customer_id": 836,
+      "session_id": "SES-0010684",
+      "event_type": "APPOINTMENT_BOOKED",
+      "store_id": 11,
+      "product_id": null,
+      "device_type": "IOS",
+      "event_properties": {
+        "source": "synthetic",
+        "campaign": "walk_in",
+        "duration_seconds": 454
+      }
+    },
+    {
+      "event_id": "CE-00000061",
+      "event_timestamp": "2025-02-12 19:20:00",
+      "customer_id": 208,
+      "session_id": "SES-0010374",
+      "event_type": "CART_ABANDONED",
+      "store_id": null,
+      "product_id": null,
+      "device_type": "IOS",
+      "event_properties": {
+        "source": "synthetic",
+        "campaign": "search",
+        "duration_seconds": 562
+      }
+    },
+    {
+      "event_id": "CE-00000062",
+      "event_timestamp": "2025-11-05 19:20:00",
+      "customer_id": 850,
+      "session_id": "SES-0007792",
+      "event_type": "STORE_VISIT",
+      "store_id": 19,
+      "product_id": null,
+      "device_type": "IOS",
+      "event_properties": {
+        "source": "synthetic",
+        "campaign": "walk_in",
+        "duration_seconds": 121
+      }
+    },
+    {
+      "event_id": "CE-00000063",
+      "event_timestamp": "2025-03-08 14:30:00",
+      "customer_id": 407,
+      "session_id": "SES-0013800",
+      "event_type": "PURCHASE",
+      "store_id": 4,
+      "product_id": 130,
+      "device_type": "IOS",
+      "event_properties": {
+        "source": "synthetic",
+        "campaign": "organic",
+        "duration_seconds": 890
+      }
+    },
+    {
+      "event_id": "CE-00000064",
+      "event_timestamp": "2025-05-26 13:45:00",
+      "customer_id": 78,
+      "session_id": "SES-0010978",
+      "event_type": "APPOINTMENT_BOOKED",
+      "store_id": 8,
+      "product_id": null,
+      "device_type": "IOS",
+      "event_properties": {
+        "source": "synthetic",
+        "campaign": "social",
+        "duration_seconds": 255
+      }
+    },
+    {
+      "event_id": "CE-00000065",
+      "event_timestamp": "2025-10-19 09:00:00",
+      "customer_id": 196,
+      "session_id": "SES-0005920",
+      "event_type": "APPOINTMENT_BOOKED",
+      "store_id": 18,
+      "product_id": null,
+      "device_type": "WEB",
+      "event_properties": {
+        "source": "synthetic",
+        "campaign": "organic",
+        "duration_seconds": 344
+      }
+    },
+    {
+      "event_id": "CE-00000066",
+      "event_timestamp": "2025-03-14 19:00:00",
+      "customer_id": 68,
+      "session_id": "SES-0015021",
+      "event_type": "CART_ABANDONED",
+      "store_id": null,
+      "product_id": null,
+      "device_type": "WEB",
+      "event_properties": {
+        "source": "synthetic",
+        "campaign": "search",
+        "duration_seconds": 540
+      }
+    },
+    {
+      "event_id": "CE-00000067",
+      "event_timestamp": "2026-06-10 10:45:00",
+      "customer_id": 645,
+      "session_id": "SES-0005216",
+      "event_type": "STORE_LOCATOR",
+      "store_id": null,
+      "product_id": null,
+      "device_type": "IOS",
+      "event_properties": {
+        "source": "synthetic",
+        "campaign": "walk_in",
+        "duration_seconds": 235
+      }
+    },
+    {
+      "event_id": "CE-00000068",
+      "event_timestamp": "2025-09-03 12:20:00",
+      "customer_id": 682,
+      "session_id": "SES-0016492",
+      "event_type": "PRODUCT_VIEW",
+      "store_id": null,
+      "product_id": 96,
+      "device_type": "WEB",
+      "event_properties": {
+        "source": "synthetic",
+        "campaign": "organic",
+        "duration_seconds": 721
+      }
+    },
+    {
+      "event_id": "CE-00000069",
+      "event_timestamp": "2025-09-09 14:30:00",
+      "customer_id": 528,
+      "session_id": "SES-0004369",
+      "event_type": "PRODUCT_VIEW",
+      "store_id": null,
+      "product_id": 122,
+      "device_type": "IOS",
+      "event_properties": {
+        "source": "synthetic",
+        "campaign": "walk_in",
+        "duration_seconds": 217
+      }
+    },
+    {
+      "event_id": "CE-00000070",
+      "event_timestamp": "2025-10-15 14:10:00",
+      "customer_id": 890,
+      "session_id": "SES-0006508",
+      "event_type": "STORE_LOCATOR",
+      "store_id": null,
+      "product_id": null,
+      "device_type": "ANDROID",
+      "event_properties": {
+        "source": "synthetic",
+        "campaign": "search",
+        "duration_seconds": 744
+      }
+    },
+    {
+      "event_id": "CE-00000071",
+      "event_timestamp": "2025-10-31 14:20:00",
+      "customer_id": 967,
+      "session_id": "SES-0016743",
+      "event_type": "APPOINTMENT_BOOKED",
+      "store_id": 12,
+      "product_id": null,
+      "device_type": "IOS",
+      "event_properties": {
+        "source": "synthetic",
+        "campaign": "social",
+        "duration_seconds": 574
+      }
+    },
+    {
+      "event_id": "CE-00000072",
+      "event_timestamp": "2025-04-09 09:45:00",
+      "customer_id": 639,
+      "session_id": "SES-0005032",
+      "event_type": "PURCHASE",
+      "store_id": 15,
+      "product_id": 100,
+      "device_type": "IOS",
+      "event_properties": {
+        "source": "synthetic",
+        "campaign": "walk_in",
+        "duration_seconds": 21
+      }
+    },
+    {
+      "event_id": "CE-00000073",
+      "event_timestamp": "2025-08-24 18:10:00",
+      "customer_id": 448,
+      "session_id": "SES-0015921",
+      "event_type": "CART_ABANDONED",
+      "store_id": null,
+      "product_id": null,
+      "device_type": "IOS",
+      "event_properties": {
+        "source": "synthetic",
+        "campaign": "organic",
+        "duration_seconds": 159
+      }
+    },
+    {
+      "event_id": "CE-00000074",
+      "event_timestamp": "2025-05-18 15:20:00",
+      "customer_id": 515,
+      "session_id": "SES-0018802",
+      "event_type": "APPOINTMENT_BOOKED",
+      "store_id": 20,
+      "product_id": null,
+      "device_type": "ANDROID",
+      "event_properties": {
+        "source": "synthetic",
+        "campaign": "social",
+        "duration_seconds": 127
+      }
+    },
+    {
+      "event_id": "CE-00000075",
+      "event_timestamp": "2026-04-30 16:10:00",
+      "customer_id": 972,
+      "session_id": "SES-0006601",
+      "event_type": "APPOINTMENT_BOOKED",
+      "store_id": 1,
+      "product_id": null,
+      "device_type": "WEB",
+      "event_properties": {
+        "source": "synthetic",
+        "campaign": "social",
+        "duration_seconds": 732
+      }
+    },
+    {
+      "event_id": "CE-00000076",
+      "event_timestamp": "2026-09-05 11:00:00",
+      "customer_id": 623,
+      "session_id": "SES-0018721",
+      "event_type": "APPOINTMENT_BOOKED",
+      "store_id": 8,
+      "product_id": null,
+      "device_type": "WEB",
+      "event_properties": {
+        "source": "synthetic",
+        "campaign": "walk_in",
+        "duration_seconds": 818
+      }
+    },
+    {
+      "event_id": "CE-00000077",
+      "event_timestamp": "2026-03-16 16:15:00",
+      "customer_id": 627,
+      "session_id": "SES-0015457",
+      "event_type": "CART_ADD",
+      "store_id": null,
+      "product_id": 184,
+      "device_type": "WEB",
+      "event_properties": {
+        "source": "synthetic",
+        "campaign": "organic",
+        "duration_seconds": 576
+      }
+    },
+    {
+      "event_id": "CE-00000078",
+      "event_timestamp": "2025-10-17 12:45:00",
+      "customer_id": 183,
+      "session_id": "SES-0010873",
+      "event_type": "CART_ABANDONED",
+      "store_id": null,
+      "product_id": null,
+      "device_type": "IOS",
+      "event_properties": {
+        "source": "synthetic",
+        "campaign": "social",
+        "duration_seconds": 113
+      }
+    },
+    {
+      "event_id": "CE-00000079",
+      "event_timestamp": "2025-12-18 14:45:00",
+      "customer_id": 624,
+      "session_id": "SES-0005857",
+      "event_type": "CART_ABANDONED",
+      "store_id": null,
+      "product_id": null,
+      "device_type": "ANDROID",
+      "event_properties": {
+        "source": "synthetic",
+        "campaign": "search",
+        "duration_seconds": 616
+      }
+    },
+    {
+      "event_id": "CE-00000080",
+      "event_timestamp": "2025-12-07 11:20:00",
+      "customer_id": 887,
+      "session_id": "SES-0019088",
+      "event_type": "CART_ABANDONED",
+      "store_id": null,
+      "product_id": null,
+      "device_type": "ANDROID",
+      "event_properties": {
+        "source": "synthetic",
+        "campaign": "organic",
+        "duration_seconds": 848
+      }
+    },
+    {
+      "event_id": "CE-00000081",
+      "event_timestamp": "2025-02-20 16:20:00",
+      "customer_id": 580,
+      "session_id": "SES-0016354",
+      "event_type": "CART_ADD",
+      "store_id": null,
+      "product_id": 27,
+      "device_type": "IOS",
+      "event_properties": {
+        "source": "synthetic",
+        "campaign": "walk_in",
+        "duration_seconds": 841
+      }
+    },
+    {
+      "event_id": "CE-00000082",
+      "event_timestamp": "2025-02-14 18:20:00",
+      "customer_id": 482,
+      "session_id": "SES-0001308",
+      "event_type": "CART_ADD",
+      "store_id": null,
+      "product_id": 87,
+      "device_type": "ANDROID",
+      "event_properties": {
+        "source": "synthetic",
+        "campaign": "search",
+        "duration_seconds": 598
+      }
+    },
+    {
+      "event_id": "CE-00000083",
+      "event_timestamp": "2026-01-25 14:45:00",
+      "customer_id": 665,
+      "session_id": "SES-0000099",
+      "event_type": "CART_ADD",
+      "store_id": null,
+      "product_id": 161,
+      "device_type": "ANDROID",
+      "event_properties": {
+        "source": "synthetic",
+        "campaign": "search",
+        "duration_seconds": 445
+      }
+    },
+    {
+      "event_id": "CE-00000084",
+      "event_timestamp": "2025-01-31 13:00:00",
+      "customer_id": 54,
+      "session_id": "SES-0005144",
+      "event_type": "PURCHASE",
+      "store_id": 16,
+      "product_id": 85,
+      "device_type": "IOS",
+      "event_properties": {
+        "source": "synthetic",
+        "campaign": "social",
+        "duration_seconds": 584
+      }
+    },
+    {
+      "event_id": "CE-00000085",
+      "event_timestamp": "2025-12-25 11:00:00",
+      "customer_id": 506,
+      "session_id": "SES-0003242",
+      "event_type": "STORE_VISIT",
+      "store_id": 18,
+      "product_id": null,
+      "device_type": "WEB",
+      "event_properties": {
+        "source": "synthetic",
+        "campaign": "walk_in",
+        "duration_seconds": 404
+      }
+    },
+    {
+      "event_id": "CE-00000086",
+      "event_timestamp": "2026-06-02 16:20:00",
+      "customer_id": 716,
+      "session_id": "SES-0012124",
+      "event_type": "PURCHASE",
+      "store_id": 7,
+      "product_id": 125,
+      "device_type": "WEB",
+      "event_properties": {
+        "source": "synthetic",
+        "campaign": "social",
+        "duration_seconds": 580
+      }
+    },
+    {
+      "event_id": "CE-00000087",
+      "event_timestamp": "2025-02-21 11:00:00",
+      "customer_id": 623,
+      "session_id": "SES-0007158",
+      "event_type": "STORE_VISIT",
+      "store_id": 17,
+      "product_id": null,
+      "device_type": "IOS",
+      "event_properties": {
+        "source": "synthetic",
+        "campaign": "search",
+        "duration_seconds": 804
+      }
+    },
+    {
+      "event_id": "CE-00000088",
+      "event_timestamp": "2026-05-26 20:30:00",
+      "customer_id": 159,
+      "session_id": "SES-0003395",
+      "event_type": "PRODUCT_VIEW",
+      "store_id": null,
+      "product_id": 102,
+      "device_type": "ANDROID",
+      "event_properties": {
+        "source": "synthetic",
+        "campaign": "walk_in",
+        "duration_seconds": 878
+      }
+    },
+    {
+      "event_id": "CE-00000089",
+      "event_timestamp": "2025-04-19 17:45:00",
+      "customer_id": 5,
+      "session_id": "SES-0007412",
+      "event_type": "PURCHASE",
+      "store_id": 9,
+      "product_id": 15,
+      "device_type": "WEB",
+      "event_properties": {
+        "source": "synthetic",
+        "campaign": "organic",
+        "duration_seconds": 847
+      }
+    },
+    {
+      "event_id": "CE-00000090",
+      "event_timestamp": "2026-09-10 20:45:00",
+      "customer_id": 461,
+      "session_id": "SES-0014182",
+      "event_type": "STORE_LOCATOR",
+      "store_id": null,
+      "product_id": null,
+      "device_type": "IOS",
+      "event_properties": {
+        "source": "synthetic",
+        "campaign": "social",
+        "duration_seconds": 92
+      }
+    },
+    {
+      "event_id": "CE-00000091",
+      "event_timestamp": "2025-02-23 19:45:00",
+      "customer_id": 620,
+      "session_id": "SES-0007925",
+      "event_type": "CART_ABANDONED",
+      "store_id": null,
+      "product_id": null,
+      "device_type": "ANDROID",
+      "event_properties": {
+        "source": "synthetic",
+        "campaign": "search",
+        "duration_seconds": 467
+      }
+    },
+    {
+      "event_id": "CE-00000092",
+      "event_timestamp": "2026-07-16 16:30:00",
+      "customer_id": 773,
+      "session_id": "SES-0001942",
+      "event_type": "APPOINTMENT_BOOKED",
+      "store_id": 11,
+      "product_id": null,
+      "device_type": "IOS",
+      "event_properties": {
+        "source": "synthetic",
+        "campaign": "social",
+        "duration_seconds": 776
+      }
+    },
+    {
+      "event_id": "CE-00000093",
+      "event_timestamp": "2026-05-21 16:10:00",
+      "customer_id": 813,
+      "session_id": "SES-0019849",
+      "event_type": "CART_ADD",
+      "store_id": null,
+      "product_id": 144,
+      "device_type": "WEB",
+      "event_properties": {
+        "source": "synthetic",
+        "campaign": "walk_in",
+        "duration_seconds": 431
+      }
+    },
+    {
+      "event_id": "CE-00000094",
+      "event_timestamp": "2026-10-11 15:00:00",
+      "customer_id": 984,
+      "session_id": "SES-0014255",
+      "event_type": "PRODUCT_SEARCH",
+      "store_id": null,
+      "product_id": null,
+      "device_type": "IOS",
+      "event_properties": {
+        "source": "synthetic",
+        "campaign": "walk_in",
+        "duration_seconds": 40
+      }
+    },
+    {
+      "event_id": "CE-00000095",
+      "event_timestamp": "2025-02-09 10:00:00",
+      "customer_id": 832,
+      "session_id": "SES-0012971",
+      "event_type": "PURCHASE",
+      "store_id": 17,
+      "product_id": 153,
+      "device_type": "ANDROID",
+      "event_properties": {
+        "source": "synthetic",
+        "campaign": "walk_in",
+        "duration_seconds": 147
+      }
+    },
+    {
+      "event_id": "CE-00000096",
+      "event_timestamp": "2025-03-06 14:15:00",
+      "customer_id": 251,
+      "session_id": "SES-0006850",
+      "event_type": "PRODUCT_SEARCH",
+      "store_id": null,
+      "product_id": null,
+      "device_type": "WEB",
+      "event_properties": {
+        "source": "synthetic",
+        "campaign": "search",
+        "duration_seconds": 779
+      }
+    },
+    {
+      "event_id": "CE-00000097",
+      "event_timestamp": "2026-10-15 15:30:00",
+      "customer_id": 162,
+      "session_id": "SES-0018983",
+      "event_type": "STORE_LOCATOR",
+      "store_id": null,
+      "product_id": null,
+      "device_type": "IOS",
+      "event_properties": {
+        "source": "synthetic",
+        "campaign": "social",
+        "duration_seconds": 395
+      }
+    },
+    {
+      "event_id": "CE-00000098",
+      "event_timestamp": "2025-03-08 12:45:00",
+      "customer_id": 999,
+      "session_id": "SES-0014377",
+      "event_type": "STORE_LOCATOR",
+      "store_id": null,
+      "product_id": null,
+      "device_type": "IOS",
+      "event_properties": {
+        "source": "synthetic",
+        "campaign": "search",
+        "duration_seconds": 385
+      }
+    },
+    {
+      "event_id": "CE-00000099",
+      "event_timestamp": "2026-03-02 15:10:00",
+      "customer_id": 617,
+      "session_id": "SES-0002179",
+      "event_type": "PRODUCT_VIEW",
+      "store_id": null,
+      "product_id": 83,
+      "device_type": "IOS",
+      "event_properties": {
+        "source": "synthetic",
+        "campaign": "search",
+        "duration_seconds": 234
+      }
+    },
+    {
+      "event_id": "CE-00000100",
+      "event_timestamp": "2025-11-02 16:00:00",
+      "customer_id": 816,
+      "session_id": "SES-0012466",
+      "event_type": "STORE_LOCATOR",
+      "store_id": null,
+      "product_id": null,
+      "device_type": "ANDROID",
+      "event_properties": {
+        "source": "synthetic",
+        "campaign": "walk_in",
+        "duration_seconds": 746
+      }
+    }
+  ]
+}

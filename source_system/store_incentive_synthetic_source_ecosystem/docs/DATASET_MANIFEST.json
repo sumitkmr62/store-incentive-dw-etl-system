@@ -1,0 +1,21 @@
+{
+  "seed": 20261114,
+  "counts": {
+    "stores": 20,
+    "employees": 200,
+    "customers": 1000,
+    "products": 200,
+    "sales_orders": 15000,
+    "sales_order_lines": 50000,
+    "payments": 15000,
+    "returns": 1673,
+    "attendance": 28800,
+    "eye_tests": 9000,
+    "employee_monthly_targets": 2000,
+    "quality_audits": 400,
+    "customer_behavior_events": 50000,
+    "employee_activity_events": 10000
+  },
+  "parquet_generated": false,
+  "parquet_error": "No module named 'pyarrow'"
+}

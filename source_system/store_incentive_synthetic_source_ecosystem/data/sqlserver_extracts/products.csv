@@ -1,0 +1,201 @@
+﻿product_id,sku,product_name,category,brand,list_price,is_active
+1,SKU-00001,Frames Model 001,Frames,Vincent Chase,2388.11,1
+2,SKU-00002,Sunglasses Model 002,Sunglasses,Vincent Chase,3805.89,1
+3,SKU-00003,Lenses Model 003,Lenses,Generic,7816.94,1
+4,SKU-00004,Contact Lenses Model 004,Contact Lenses,Aero,1447.82,1
+5,SKU-00005,Accessories Model 005,Accessories,John Jacobs,1054.37,1
+6,SKU-00006,Frames Model 006,Frames,Generic,6564.57,1
+7,SKU-00007,Sunglasses Model 007,Sunglasses,Generic,2571.02,1
+8,SKU-00008,Lenses Model 008,Lenses,Aero,7332.13,1
+9,SKU-00009,Contact Lenses Model 009,Contact Lenses,Aero,6696.16,1
+10,SKU-00010,Accessories Model 010,Accessories,Vincent Chase,3641.81,1
+11,SKU-00011,Frames Model 011,Frames,Aero,2205.17,1
+12,SKU-00012,Sunglasses Model 012,Sunglasses,Vincent Chase,7954.15,1
+13,SKU-00013,Lenses Model 013,Lenses,Generic,880.24,1
+14,SKU-00014,Contact Lenses Model 014,Contact Lenses,Aero,7559.42,1
+15,SKU-00015,Accessories Model 015,Accessories,John Jacobs,3748.28,1
+16,SKU-00016,Frames Model 016,Frames,Generic,3084.89,1
+17,SKU-00017,Sunglasses Model 017,Sunglasses,Generic,1922.25,1
+18,SKU-00018,Lenses Model 018,Lenses,Aero,8983.25,1
+19,SKU-00019,Contact Lenses Model 019,Contact Lenses,John Jacobs,7920.44,1
+20,SKU-00020,Accessories Model 020,Accessories,John Jacobs,3187.06,1
+21,SKU-00021,Frames Model 021,Frames,Aero,6345.25,1
+22,SKU-00022,Sunglasses Model 022,Sunglasses,Generic,1637.36,1
+23,SKU-00023,Lenses Model 023,Lenses,John Jacobs,997.04,1
+24,SKU-00024,Contact Lenses Model 024,Contact Lenses,Generic,8619.32,1
+25,SKU-00025,Accessories Model 025,Accessories,Generic,2424.68,1
+26,SKU-00026,Frames Model 026,Frames,John Jacobs,6115.13,1
+27,SKU-00027,Sunglasses Model 027,Sunglasses,Generic,918.64,1
+28,SKU-00028,Lenses Model 028,Lenses,Vincent Chase,6587.47,1
+29,SKU-00029,Contact Lenses Model 029,Contact Lenses,Generic,2033.54,1
+30,SKU-00030,Accessories Model 030,Accessories,Vincent Chase,3570.02,1
+31,SKU-00031,Frames Model 031,Frames,Generic,7123.06,1
+32,SKU-00032,Sunglasses Model 032,Sunglasses,Aero,8763.3,1
+33,SKU-00033,Lenses Model 033,Lenses,Generic,7723.95,1
+34,SKU-00034,Contact Lenses Model 034,Contact Lenses,John Jacobs,8294.28,1
+35,SKU-00035,Accessories Model 035,Accessories,Generic,1914.44,1
+36,SKU-00036,Frames Model 036,Frames,Generic,1441.19,1
+37,SKU-00037,Sunglasses Model 037,Sunglasses,Vincent Chase,1358.78,1
+38,SKU-00038,Lenses Model 038,Lenses,Aero,1949.37,1
+39,SKU-00039,Contact Lenses Model 039,Contact Lenses,Aero,8876.33,1
+40,SKU-00040,Accessories Model 040,Accessories,Generic,2166.97,1
+41,SKU-00041,Frames Model 041,Frames,John Jacobs,6115.96,1
+42,SKU-00042,Sunglasses Model 042,Sunglasses,Generic,7470.6,1
+43,SKU-00043,Lenses Model 043,Lenses,Vincent Chase,5014.82,1
+44,SKU-00044,Contact Lenses Model 044,Contact Lenses,Aero,4622.95,1
+45,SKU-00045,Accessories Model 045,Accessories,Aero,2508.23,1
+46,SKU-00046,Frames Model 046,Frames,Generic,2158.47,1
+47,SKU-00047,Sunglasses Model 047,Sunglasses,Aero,8330.3,1
+48,SKU-00048,Lenses Model 048,Lenses,John Jacobs,5923.6,1
+49,SKU-00049,Contact Lenses Model 049,Contact Lenses,John Jacobs,5576.28,1
+50,SKU-00050,Accessories Model 050,Accessories,Generic,3468.58,1
+51,SKU-00051,Frames Model 051,Frames,Generic,8509.88,1
+52,SKU-00052,Sunglasses Model 052,Sunglasses,Vincent Chase,3649.14,1
+53,SKU-00053,Lenses Model 053,Lenses,Aero,2354.33,1
+54,SKU-00054,Contact Lenses Model 054,Contact Lenses,Aero,1250.29,1
+55,SKU-00055,Accessories Model 055,Accessories,Vincent Chase,1907.11,1
+56,SKU-00056,Frames Model 056,Frames,Aero,6589.01,1
+57,SKU-00057,Sunglasses Model 057,Sunglasses,Vincent Chase,7074.79,1
+58,SKU-00058,Lenses Model 058,Lenses,Aero,8766.08,1
+59,SKU-00059,Contact Lenses Model 059,Contact Lenses,Vincent Chase,4678.15,1
+60,SKU-00060,Accessories Model 060,Accessories,Generic,6037.67,1
+61,SKU-00061,Frames Model 061,Frames,John Jacobs,1889.83,1
+62,SKU-00062,Sunglasses Model 062,Sunglasses,Generic,8448.01,1
+63,SKU-00063,Lenses Model 063,Lenses,Generic,1698.08,1
+64,SKU-00064,Contact Lenses Model 064,Contact Lenses,Vincent Chase,2774.25,1
+65,SKU-00065,Accessories Model 065,Accessories,Aero,3107.92,1
+66,SKU-00066,Frames Model 066,Frames,Generic,4363.6,1
+67,SKU-00067,Sunglasses Model 067,Sunglasses,Generic,2935.68,1
+68,SKU-00068,Lenses Model 068,Lenses,Generic,5045.34,1
+69,SKU-00069,Contact Lenses Model 069,Contact Lenses,Aero,7281.85,1
+70,SKU-00070,Accessories Model 070,Accessories,Generic,2454.88,1
+71,SKU-00071,Frames Model 071,Frames,Generic,4399.73,1
+72,SKU-00072,Sunglasses Model 072,Sunglasses,Vincent Chase,5720.6,1
+73,SKU-00073,Lenses Model 073,Lenses,John Jacobs,5277.82,1
+74,SKU-00074,Contact Lenses Model 074,Contact Lenses,Generic,552.29,1
+75,SKU-00075,Accessories Model 075,Accessories,Generic,6791.27,1
+76,SKU-00076,Frames Model 076,Frames,John Jacobs,5857.07,1
+77,SKU-00077,Sunglasses Model 077,Sunglasses,Generic,6912.53,1
+78,SKU-00078,Lenses Model 078,Lenses,Generic,3813.06,1
+79,SKU-00079,Contact Lenses Model 079,Contact Lenses,Aero,1385.17,1
+80,SKU-00080,Accessories Model 080,Accessories,Vincent Chase,4080.23,1
+81,SKU-00081,Frames Model 081,Frames,Generic,1136.94,1
+82,SKU-00082,Sunglasses Model 082,Sunglasses,Vincent Chase,4221.13,1
+83,SKU-00083,Lenses Model 083,Lenses,Generic,2808.93,1
+84,SKU-00084,Contact Lenses Model 084,Contact Lenses,Vincent Chase,4892.83,1
+85,SKU-00085,Accessories Model 085,Accessories,Vincent Chase,6018.81,1
+86,SKU-00086,Frames Model 086,Frames,Aero,693.92,1
+87,SKU-00087,Sunglasses Model 087,Sunglasses,Generic,4390.63,1
+88,SKU-00088,Lenses Model 088,Lenses,John Jacobs,3219.34,1
+89,SKU-00089,Contact Lenses Model 089,Contact Lenses,Generic,6848.65,1
+90,SKU-00090,Accessories Model 090,Accessories,Aero,6553.12,1
+91,SKU-00091,Frames Model 091,Frames,Generic,2314.58,1
+92,SKU-00092,Sunglasses Model 092,Sunglasses,Vincent Chase,4656.75,1
+93,SKU-00093,Lenses Model 093,Lenses,Aero,3614.05,1
+94,SKU-00094,Contact Lenses Model 094,Contact Lenses,Vincent Chase,5547.04,1
+95,SKU-00095,Accessories Model 095,Accessories,Vincent Chase,5272.26,1
+96,SKU-00096,Frames Model 096,Frames,Aero,6158.05,1
+97,SKU-00097,Sunglasses Model 097,Sunglasses,Vincent Chase,8687.47,1
+98,SKU-00098,Lenses Model 098,Lenses,John Jacobs,2035.42,1
+99,SKU-00099,Contact Lenses Model 099,Contact Lenses,Generic,2773.31,1
+100,SKU-00100,Accessories Model 100,Accessories,Generic,1202.39,1
+101,SKU-00101,Frames Model 101,Frames,Aero,8229.26,1
+102,SKU-00102,Sunglasses Model 102,Sunglasses,Vincent Chase,3282.48,1
+103,SKU-00103,Lenses Model 103,Lenses,Generic,7857.04,1
+104,SKU-00104,Contact Lenses Model 104,Contact Lenses,Aero,1620.05,1
+105,SKU-00105,Accessories Model 105,Accessories,John Jacobs,3590.16,1
+106,SKU-00106,Frames Model 106,Frames,Generic,2846.26,1
+107,SKU-00107,Sunglasses Model 107,Sunglasses,Generic,7765.36,1
+108,SKU-00108,Lenses Model 108,Lenses,John Jacobs,7955.94,1
+109,SKU-00109,Contact Lenses Model 109,Contact Lenses,Vincent Chase,1394.11,1
+110,SKU-00110,Accessories Model 110,Accessories,Generic,1954.7,1
+111,SKU-00111,Frames Model 111,Frames,Generic,8099.11,1
+112,SKU-00112,Sunglasses Model 112,Sunglasses,Vincent Chase,5532.17,1
+113,SKU-00113,Lenses Model 113,Lenses,Generic,1206.89,1
+114,SKU-00114,Contact Lenses Model 114,Contact Lenses,Aero,8568.12,1
+115,SKU-00115,Accessories Model 115,Accessories,John Jacobs,7398.47,1
+116,SKU-00116,Frames Model 116,Frames,Generic,8542.82,1
+117,SKU-00117,Sunglasses Model 117,Sunglasses,Generic,4491.32,1
+118,SKU-00118,Lenses Model 118,Lenses,John Jacobs,8795.73,1
+119,SKU-00119,Contact Lenses Model 119,Contact Lenses,Aero,1902.7,1
+120,SKU-00120,Accessories Model 120,Accessories,Vincent Chase,8397.92,1
+121,SKU-00121,Frames Model 121,Frames,John Jacobs,8143.26,1
+122,SKU-00122,Sunglasses Model 122,Sunglasses,Vincent Chase,3478.95,1
+123,SKU-00123,Lenses Model 123,Lenses,Generic,798.79,1
+124,SKU-00124,Contact Lenses Model 124,Contact Lenses,Aero,4087.33,1
+125,SKU-00125,Accessories Model 125,Accessories,Generic,3108.02,1
+126,SKU-00126,Frames Model 126,Frames,Generic,7647.05,1
+127,SKU-00127,Sunglasses Model 127,Sunglasses,John Jacobs,4264.55,1
+128,SKU-00128,Lenses Model 128,Lenses,John Jacobs,5979.03,1
+129,SKU-00129,Contact Lenses Model 129,Contact Lenses,Aero,7242.39,1
+130,SKU-00130,Accessories Model 130,Accessories,John Jacobs,2244.57,1
+131,SKU-00131,Frames Model 131,Frames,John Jacobs,3311.14,1
+132,SKU-00132,Sunglasses Model 132,Sunglasses,Generic,6590.24,1
+133,SKU-00133,Lenses Model 133,Lenses,Vincent Chase,8173.13,1
+134,SKU-00134,Contact Lenses Model 134,Contact Lenses,John Jacobs,1712.58,1
+135,SKU-00135,Accessories Model 135,Accessories,Aero,1748.53,1
+136,SKU-00136,Frames Model 136,Frames,Aero,8047.41,1
+137,SKU-00137,Sunglasses Model 137,Sunglasses,Aero,1243.55,1
+138,SKU-00138,Lenses Model 138,Lenses,Vincent Chase,5421.71,1
+139,SKU-00139,Contact Lenses Model 139,Contact Lenses,Vincent Chase,7795.13,1
+140,SKU-00140,Accessories Model 140,Accessories,John Jacobs,3826.58,1
+141,SKU-00141,Frames Model 141,Frames,Vincent Chase,3525.59,1
+142,SKU-00142,Sunglasses Model 142,Sunglasses,Vincent Chase,1875.63,1
+143,SKU-00143,Lenses Model 143,Lenses,Aero,6854.65,1
+144,SKU-00144,Contact Lenses Model 144,Contact Lenses,Vincent Chase,4828.02,1
+145,SKU-00145,Accessories Model 145,Accessories,Aero,2282.3,1
+146,SKU-00146,Frames Model 146,Frames,Aero,1171.65,1
+147,SKU-00147,Sunglasses Model 147,Sunglasses,John Jacobs,5877.7,1
+148,SKU-00148,Lenses Model 148,Lenses,Vincent Chase,6026.87,1
+149,SKU-00149,Contact Lenses Model 149,Contact Lenses,Aero,3857.87,1
+150,SKU-00150,Accessories Model 150,Accessories,Generic,7966.89,1
+151,SKU-00151,Frames Model 151,Frames,Generic,3793.99,1
+152,SKU-00152,Sunglasses Model 152,Sunglasses,Generic,2076.66,1
+153,SKU-00153,Lenses Model 153,Lenses,John Jacobs,5971.38,1
+154,SKU-00154,Contact Lenses Model 154,Contact Lenses,John Jacobs,5319.05,1
+155,SKU-00155,Accessories Model 155,Accessories,John Jacobs,6787.65,1
+156,SKU-00156,Frames Model 156,Frames,John Jacobs,4670.02,1
+157,SKU-00157,Sunglasses Model 157,Sunglasses,Generic,3671.44,1
+158,SKU-00158,Lenses Model 158,Lenses,Generic,5626.02,1
+159,SKU-00159,Contact Lenses Model 159,Contact Lenses,John Jacobs,3825.39,1
+160,SKU-00160,Accessories Model 160,Accessories,Aero,8444.03,1
+161,SKU-00161,Frames Model 161,Frames,John Jacobs,1946.46,1
+162,SKU-00162,Sunglasses Model 162,Sunglasses,Vincent Chase,2060.61,1
+163,SKU-00163,Lenses Model 163,Lenses,Generic,2572.99,1
+164,SKU-00164,Contact Lenses Model 164,Contact Lenses,John Jacobs,4716.39,1
+165,SKU-00165,Accessories Model 165,Accessories,John Jacobs,7110.39,1
+166,SKU-00166,Frames Model 166,Frames,John Jacobs,8372.66,1
+167,SKU-00167,Sunglasses Model 167,Sunglasses,Generic,1830.9,1
+168,SKU-00168,Lenses Model 168,Lenses,Vincent Chase,5975.72,1
+169,SKU-00169,Contact Lenses Model 169,Contact Lenses,John Jacobs,7484.81,1
+170,SKU-00170,Accessories Model 170,Accessories,Vincent Chase,959.71,1
+171,SKU-00171,Frames Model 171,Frames,Generic,4846.93,1
+172,SKU-00172,Sunglasses Model 172,Sunglasses,Vincent Chase,8122.39,1
+173,SKU-00173,Lenses Model 173,Lenses,Aero,1080.0,1
+174,SKU-00174,Contact Lenses Model 174,Contact Lenses,Aero,7559.02,1
+175,SKU-00175,Accessories Model 175,Accessories,Aero,3315.33,1
+176,SKU-00176,Frames Model 176,Frames,John Jacobs,6417.95,1
+177,SKU-00177,Sunglasses Model 177,Sunglasses,Aero,2831.52,1
+178,SKU-00178,Lenses Model 178,Lenses,John Jacobs,1653.46,1
+179,SKU-00179,Contact Lenses Model 179,Contact Lenses,Aero,1643.54,1
+180,SKU-00180,Accessories Model 180,Accessories,Vincent Chase,6679.62,1
+181,SKU-00181,Frames Model 181,Frames,Generic,5800.19,1
+182,SKU-00182,Sunglasses Model 182,Sunglasses,Generic,7465.4,1
+183,SKU-00183,Lenses Model 183,Lenses,Aero,4518.09,1
+184,SKU-00184,Contact Lenses Model 184,Contact Lenses,Generic,4261.48,1
+185,SKU-00185,Accessories Model 185,Accessories,Aero,1800.5,1
+186,SKU-00186,Frames Model 186,Frames,Generic,7256.12,1
+187,SKU-00187,Sunglasses Model 187,Sunglasses,Aero,8917.73,1
+188,SKU-00188,Lenses Model 188,Lenses,Generic,3827.78,1
+189,SKU-00189,Contact Lenses Model 189,Contact Lenses,Generic,2714.8,1
+190,SKU-00190,Accessories Model 190,Accessories,Vincent Chase,5427.17,1
+191,SKU-00191,Frames Model 191,Frames,John Jacobs,5020.67,1
+192,SKU-00192,Sunglasses Model 192,Sunglasses,John Jacobs,3935.0,1
+193,SKU-00193,Lenses Model 193,Lenses,Aero,7651.8,1
+194,SKU-00194,Contact Lenses Model 194,Contact Lenses,John Jacobs,2881.69,1
+195,SKU-00195,Accessories Model 195,Accessories,John Jacobs,3263.96,1
+196,SKU-00196,Frames Model 196,Frames,Vincent Chase,2916.89,1
+197,SKU-00197,Sunglasses Model 197,Sunglasses,John Jacobs,7505.88,1
+198,SKU-00198,Lenses Model 198,Lenses,John Jacobs,7367.16,1
+199,SKU-00199,Contact Lenses Model 199,Contact Lenses,John Jacobs,2357.08,1
+200,SKU-00200,Accessories Model 200,Accessories,Vincent Chase,6958.33,1
