@@ -2,7 +2,6 @@
 import csv
 from pathlib import Path
 
-
 def read_csv_records(file_path: Path):
   if not file_path.exists():
     raise FileNotFoundError("File path does not exists")
