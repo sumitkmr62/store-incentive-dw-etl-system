@@ -71,7 +71,7 @@ def validate_csv_headers(file_path:Path) -> dict:
       ]
       result["column_count"] = len(headers)
 
-      # Determine the fina; validation status
+      # Determine the final validation status
       if (result["duplicate_headers"] or result['empty_headers']):
         result['status'] = 'FAILED'
 
@@ -90,7 +90,7 @@ from pathlib import Path
 def profile_csv_directory(source_directory: Path) -> list:
 
   if not source_directory.exists():
-    raise FileNotFoundError(f"Source directory doen not exists: {source_directory}")
+    raise FileNotFoundError(f"Source directory does not exists: {source_directory}")
 
   if not source_directory.is_dir():
     raise NotADirectoryError(f"Expected a directory: {source_directory}")
@@ -156,7 +156,7 @@ def display_results(results:list) -> None:
 #-------------------5. MAIN EXECUTION----------------------
 def main() -> None:
   """
-  Main entry point ot the CSV header profiling module
+  Main entry point of the CSV header profiling module
   """
   print("Starting CSV header validation...")
 
